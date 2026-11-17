@@ -14,5 +14,9 @@ Jenkins
 
 Jira
 
-playwright
+Jenkins
+
+version control
+
+source code management
 
