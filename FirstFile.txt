@@ -20,3 +20,5 @@ version control
 
 source code management
 
+CI/CD Execution
+
