@@ -18,7 +18,7 @@ Jenkins
 
 version control
 
-source code management
+Defect Tracking
 
-CI/CD Execution
+Ticket Management
 
