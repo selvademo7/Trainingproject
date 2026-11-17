@@ -1,0 +1,8 @@
+jira
+Ticket tracking tool
+
+git
+version control 
+
+jenkins
+CI/CD tool
